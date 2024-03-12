@@ -9,7 +9,6 @@ import TabNavigation from './App/Navigation/TabNavigation';
 
 export default function App() {
   return (
-    <ClerkProvider publishableKey={"pk_test_bWludC1tb3RoLTMzLmNsZXJrLmFjY291bnRzLmRldiQ"}>
     <SafeAreaView style={styles.container}>
         <SignedIn>
           <NavigationContainer>
